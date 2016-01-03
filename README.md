@@ -1,2 +1,2 @@
-# gotovo.github.io
+### gotovo.github.io
 Gotovo website
